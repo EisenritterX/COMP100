@@ -1,0 +1,7 @@
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 1\bin\Debug\Exercise 1.exe.config
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 1\bin\Debug\Exercise 1.exe
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 1\bin\Debug\Exercise 1.pdb
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 1\obj\Debug\Exercise 1.csprojAssemblyReference.cache
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 1\obj\Debug\Exercise 1.csproj.CoreCompileInputs.cache
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 1\obj\Debug\Exercise 1.exe
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 1\obj\Debug\Exercise 1.pdb

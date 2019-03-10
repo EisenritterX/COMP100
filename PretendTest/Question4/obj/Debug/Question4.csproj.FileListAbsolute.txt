@@ -1,0 +1,7 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\PretendTest\Question4\bin\Debug\Question4.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\PretendTest\Question4\bin\Debug\Question4.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\PretendTest\Question4\bin\Debug\Question4.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\PretendTest\Question4\obj\Debug\Question4.csprojAssemblyReference.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\PretendTest\Question4\obj\Debug\Question4.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\PretendTest\Question4\obj\Debug\Question4.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\PretendTest\Question4\obj\Debug\Question4.pdb

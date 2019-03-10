@@ -1,0 +1,7 @@
+C:\Users\300613283\source\repos\Week3Solution\ChickenEgg\bin\Debug\ChickenEgg.exe.config
+C:\Users\300613283\source\repos\Week3Solution\ChickenEgg\bin\Debug\ChickenEgg.exe
+C:\Users\300613283\source\repos\Week3Solution\ChickenEgg\bin\Debug\ChickenEgg.pdb
+C:\Users\300613283\source\repos\Week3Solution\ChickenEgg\obj\Debug\ChickenEgg.csprojAssemblyReference.cache
+C:\Users\300613283\source\repos\Week3Solution\ChickenEgg\obj\Debug\ChickenEgg.csproj.CoreCompileInputs.cache
+C:\Users\300613283\source\repos\Week3Solution\ChickenEgg\obj\Debug\ChickenEgg.exe
+C:\Users\300613283\source\repos\Week3Solution\ChickenEgg\obj\Debug\ChickenEgg.pdb

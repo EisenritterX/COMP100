@@ -1,0 +1,14 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week08Assignment\Question 8\bin\Debug\Question 8.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week08Assignment\Question 8\bin\Debug\Question 8.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week08Assignment\Question 8\bin\Debug\Question 8.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week08Assignment\Question 8\obj\Debug\Question 8.csprojAssemblyReference.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week08Assignment\Question 8\obj\Debug\Question 8.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week08Assignment\Question 8\obj\Debug\Question 8.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week08Assignment\Question 8\obj\Debug\Question 8.pdb
+H:\COM100 Programming\002\Week08Assignment\Question 8\bin\Debug\Question 8.exe.config
+H:\COM100 Programming\002\Week08Assignment\Question 8\bin\Debug\Question 8.exe
+H:\COM100 Programming\002\Week08Assignment\Question 8\bin\Debug\Question 8.pdb
+H:\COM100 Programming\002\Week08Assignment\Question 8\obj\Debug\Question 8.csprojAssemblyReference.cache
+H:\COM100 Programming\002\Week08Assignment\Question 8\obj\Debug\Question 8.csproj.CoreCompileInputs.cache
+H:\COM100 Programming\002\Week08Assignment\Question 8\obj\Debug\Question 8.exe
+H:\COM100 Programming\002\Week08Assignment\Question 8\obj\Debug\Question 8.pdb

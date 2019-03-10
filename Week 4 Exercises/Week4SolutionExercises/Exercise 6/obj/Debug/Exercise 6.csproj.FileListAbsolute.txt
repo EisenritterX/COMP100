@@ -1,0 +1,2 @@
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 6\obj\Debug\Exercise 6.csprojAssemblyReference.cache
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 6\obj\Debug\Exercise 6.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week06DoWhileLoopAssignment\Question 11\bin\Debug\Question 11.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week06DoWhileLoopAssignment\Question 11\bin\Debug\Question 11.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week06DoWhileLoopAssignment\Question 11\bin\Debug\Question 11.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week06DoWhileLoopAssignment\Question 11\obj\Debug\Question 11.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week06DoWhileLoopAssignment\Question 11\obj\Debug\Question 11.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week06DoWhileLoopAssignment\Question 11\obj\Debug\Question 11.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week06DoWhileLoopAssignment\Question 11\obj\Debug\Question 11.csprojAssemblyReference.cache

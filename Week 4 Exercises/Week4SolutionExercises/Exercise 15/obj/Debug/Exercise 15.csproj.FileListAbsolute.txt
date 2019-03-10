@@ -1,0 +1,7 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 15\bin\Debug\Exercise 15.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 15\bin\Debug\Exercise 15.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 15\bin\Debug\Exercise 15.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 15\obj\Debug\Exercise 15.csprojAssemblyReference.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 15\obj\Debug\Exercise 15.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 15\obj\Debug\Exercise 15.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 15\obj\Debug\Exercise 15.pdb

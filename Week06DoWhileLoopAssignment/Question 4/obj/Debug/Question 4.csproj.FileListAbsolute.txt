@@ -1,0 +1,6 @@
+H:\COM100 Programming\002\Week06DoWhileLoopAssignment\Question 4\bin\Debug\Question 4.exe.config
+H:\COM100 Programming\002\Week06DoWhileLoopAssignment\Question 4\bin\Debug\Question 4.exe
+H:\COM100 Programming\002\Week06DoWhileLoopAssignment\Question 4\bin\Debug\Question 4.pdb
+H:\COM100 Programming\002\Week06DoWhileLoopAssignment\Question 4\obj\Debug\Question 4.csproj.CoreCompileInputs.cache
+H:\COM100 Programming\002\Week06DoWhileLoopAssignment\Question 4\obj\Debug\Question 4.exe
+H:\COM100 Programming\002\Week06DoWhileLoopAssignment\Question 4\obj\Debug\Question 4.pdb

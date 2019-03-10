@@ -1,0 +1,6 @@
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Assignment\Week4Assignment\Question 3\bin\Debug\Question 3.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Assignment\Week4Assignment\Question 3\bin\Debug\Question 3.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Assignment\Week4Assignment\Question 3\bin\Debug\Question 3.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Assignment\Week4Assignment\Question 3\obj\Debug\Question 3.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Assignment\Week4Assignment\Question 3\obj\Debug\Question 3.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\002\Week 4 Assignment\Week4Assignment\Question 3\obj\Debug\Question 3.pdb

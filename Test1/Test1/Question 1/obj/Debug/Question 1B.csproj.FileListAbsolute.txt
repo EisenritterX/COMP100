@@ -1,0 +1,7 @@
+H:\COM100 Programming\002\Test1\Test1\Question 1\bin\Debug\Question 1.exe.config
+H:\COM100 Programming\002\Test1\Test1\Question 1\bin\Debug\Question 1.exe
+H:\COM100 Programming\002\Test1\Test1\Question 1\bin\Debug\Question 1.pdb
+H:\COM100 Programming\002\Test1\Test1\Question 1\obj\Debug\Question 1B.csprojAssemblyReference.cache
+H:\COM100 Programming\002\Test1\Test1\Question 1\obj\Debug\Question 1B.csproj.CoreCompileInputs.cache
+H:\COM100 Programming\002\Test1\Test1\Question 1\obj\Debug\Question 1.exe
+H:\COM100 Programming\002\Test1\Test1\Question 1\obj\Debug\Question 1.pdb

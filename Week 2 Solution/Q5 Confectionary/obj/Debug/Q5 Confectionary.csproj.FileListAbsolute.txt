@@ -1,0 +1,6 @@
+c:\users\300613283\source\repos\Week2Solution\Q5 Confectionary\bin\Debug\Q5 Confectionary.exe.config
+c:\users\300613283\source\repos\Week2Solution\Q5 Confectionary\bin\Debug\Q5 Confectionary.exe
+c:\users\300613283\source\repos\Week2Solution\Q5 Confectionary\bin\Debug\Q5 Confectionary.pdb
+c:\users\300613283\source\repos\Week2Solution\Q5 Confectionary\obj\Debug\Q5 Confectionary.csproj.CoreCompileInputs.cache
+c:\users\300613283\source\repos\Week2Solution\Q5 Confectionary\obj\Debug\Q5 Confectionary.exe
+c:\users\300613283\source\repos\Week2Solution\Q5 Confectionary\obj\Debug\Q5 Confectionary.pdb

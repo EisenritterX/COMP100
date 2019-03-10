@@ -1,0 +1,6 @@
+c:\users\300613283\source\repos\Week2Solution\Q9 Plumber\bin\Debug\Q9 Plumber.exe.config
+c:\users\300613283\source\repos\Week2Solution\Q9 Plumber\bin\Debug\Q9 Plumber.exe
+c:\users\300613283\source\repos\Week2Solution\Q9 Plumber\bin\Debug\Q9 Plumber.pdb
+c:\users\300613283\source\repos\Week2Solution\Q9 Plumber\obj\Debug\Q9 Plumber.csproj.CoreCompileInputs.cache
+c:\users\300613283\source\repos\Week2Solution\Q9 Plumber\obj\Debug\Q9 Plumber.exe
+c:\users\300613283\source\repos\Week2Solution\Q9 Plumber\obj\Debug\Q9 Plumber.pdb

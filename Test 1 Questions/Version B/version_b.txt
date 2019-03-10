@@ -1,0 +1,124 @@
+/*
+ * ==================       Test #1 Winter 2019     ==================
+ * 
+ * Name: Qian Long (George) Zhou Qian Long (George) Zhou
+ * Student ID: 300613283
+ *
+ * Question 1b.
+ * 10 Marks.
+ *
+ * Write a program that displays the name and address of the Canadian 
+ * Prime Minister. 
+ * 
+ * You must match the format exactly.
+ * 
+ * [Solution: Question1B]
+ */
+
+
+/*
+ * ==================      Test #1 Winter 2019      ==================
+ * 
+ * Name: Qian Long (George) Zhou
+ * Student ID: 300613283
+ *
+ * Question 2b.
+ * 12 Marks.
+ *
+ * Write a program that prompts the user for his current balance and his
+ * name.The program displays his name and year end balance. You must 
+ * match the  format exactly.
+ * 
+ * Hint: balance at the end of the year = current balance * 1.04;
+ * [Solution: Question2B]
+ */
+
+
+
+/*
+ * ==================      Test #1 Winter 2019      ==================
+ * 
+ * Name: Qian Long (George) Zhou
+ * Student ID: 300613283
+ *
+ * Question 3b.
+ * 6 Marks.
+ *
+ * Write a program that prompts the user for a letter. The program prints
+ * the letter and the number equivalent. The number equivalent is obtained
+ * by casting the char to an int. You must match the format exactly.
+ * 
+ * YOU MUST READ IN THE INPUT AS A CHAR and you MUST do an explicit cast
+ * * [Solution: Question3B]
+ * [Hint: See Wk03_data_types.pptx slide #6 and #8]
+ */
+
+
+
+/*
+ * ==================      Test #1 Winter 2019      ==================
+ * 
+ * Name: Qian Long (George) Zhou
+ * Student ID: 300613283
+ *
+ * Question 4b.
+ * 14 Marks.
+ *
+ * Enterprise Car Rentals has asked you to write a program that prompts 
+ * the user for the type of rider. Based on the user's input the program 
+ * will display the following:
+ * 
+ * Input: sedan
+ * Message: sedan cost 21.40 per day
+ * 
+ * Input: COMPACT
+ * Message: COMPACT cost 18.90 per day
+ * 
+ * Input: Sports
+ * Message: Sports cost 32.80 per day
+ * 
+ * any other input
+ * Message: I am sorry I don't know of that kind of car
+ * 
+ * You may use either the ToUpper() or ToLower() methods 
+ * 
+ * You MUST USE ONLY A SWITCH statement to solve this problem
+ * [For full marks you need to accept all permutations of sedan, 
+ * compact and sports]
+ * 
+ * [Solution: Question4B]
+ */
+
+/*
+ * ==================      Test #1 Winter 2019      ==================
+ * 
+ * Name: Qian Long (George) Zhou
+ * Student ID: 300613283
+ *
+ * Question 5b.
+ * 12 Marks.
+ *
+ * Enterprise Car Rentals has asked you to write a program that prompts 
+ * the user for the type of rider. Based on the user's input the program 
+ * will display the following:
+ * 
+ * Input: sedan
+ * Message: sedan cost 21.40 per day
+ * 
+ * Input: COMPACT
+ * Message: COMPACT cost 18.90 per day
+ * 
+ * Input: Sports
+ * Message: Sports cost 32.80 per day
+ * 
+ * any other input
+ * Message: I am sorry I don't know of that kind of car
+ * 
+ * You may use either the ToUpper() or ToLower() methods 
+ * 
+ * You MUST USE A NESTED IF statement to solve this problem
+ * [For full marks you need to accept all permutations of sedan, compact
+ * and sports]
+ * 
+ * [Solution: Question5B]
+ */

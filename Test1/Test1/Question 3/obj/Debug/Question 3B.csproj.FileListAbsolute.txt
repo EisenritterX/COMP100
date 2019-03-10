@@ -1,0 +1,6 @@
+H:\COM100 Programming\002\Test1\Test1\Question 3\bin\Debug\Question 3.exe.config
+H:\COM100 Programming\002\Test1\Test1\Question 3\bin\Debug\Question 3.exe
+H:\COM100 Programming\002\Test1\Test1\Question 3\bin\Debug\Question 3.pdb
+H:\COM100 Programming\002\Test1\Test1\Question 3\obj\Debug\Question 3B.csproj.CoreCompileInputs.cache
+H:\COM100 Programming\002\Test1\Test1\Question 3\obj\Debug\Question 3.exe
+H:\COM100 Programming\002\Test1\Test1\Question 3\obj\Debug\Question 3.pdb

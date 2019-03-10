@@ -1,0 +1,6 @@
+c:\users\300613283\source\repos\Week2Solution\Q7 Tile\bin\Debug\Q7 Tile.exe.config
+c:\users\300613283\source\repos\Week2Solution\Q7 Tile\bin\Debug\Q7 Tile.exe
+c:\users\300613283\source\repos\Week2Solution\Q7 Tile\bin\Debug\Q7 Tile.pdb
+c:\users\300613283\source\repos\Week2Solution\Q7 Tile\obj\Debug\Q7 Tile.csproj.CoreCompileInputs.cache
+c:\users\300613283\source\repos\Week2Solution\Q7 Tile\obj\Debug\Q7 Tile.exe
+c:\users\300613283\source\repos\Week2Solution\Q7 Tile\obj\Debug\Q7 Tile.pdb

@@ -1,0 +1,6 @@
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 11\bin\Debug\Exercise 11.exe.config
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 11\bin\Debug\Exercise 11.exe
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 11\bin\Debug\Exercise 11.pdb
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 11\obj\Debug\Exercise 11.csproj.CoreCompileInputs.cache
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 11\obj\Debug\Exercise 11.exe
+H:\COM100 Programming\002\Week 4 Exercises\Week4SolutionExercises\Exercise 11\obj\Debug\Exercise 11.pdb

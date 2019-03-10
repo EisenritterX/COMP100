@@ -1,0 +1,7 @@
+c:\users\300613283\source\repos\Week2Solution\Q4 Perimeter\obj\Debug\Q4 Perimeter.csprojAssemblyReference.cache
+c:\users\300613283\source\repos\Week2Solution\Q4 Perimeter\obj\Debug\Q4 Perimeter.csproj.CoreCompileInputs.cache
+c:\users\300613283\source\repos\Week2Solution\Q4 Perimeter\bin\Debug\Q4 Perimeter.exe.config
+c:\users\300613283\source\repos\Week2Solution\Q4 Perimeter\bin\Debug\Q4 Perimeter.exe
+c:\users\300613283\source\repos\Week2Solution\Q4 Perimeter\bin\Debug\Q4 Perimeter.pdb
+c:\users\300613283\source\repos\Week2Solution\Q4 Perimeter\obj\Debug\Q4 Perimeter.exe
+c:\users\300613283\source\repos\Week2Solution\Q4 Perimeter\obj\Debug\Q4 Perimeter.pdb

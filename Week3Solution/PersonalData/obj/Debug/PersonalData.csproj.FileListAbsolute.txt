@@ -1,0 +1,7 @@
+C:\Users\300613283\source\repos\Week3Solution\PersonalData\obj\Debug\PersonalData.csprojAssemblyReference.cache
+C:\Users\300613283\source\repos\Week3Solution\PersonalData\obj\Debug\PersonalData.csproj.CoreCompileInputs.cache
+C:\Users\300613283\source\repos\Week3Solution\PersonalData\bin\Debug\PersonalData.exe.config
+C:\Users\300613283\source\repos\Week3Solution\PersonalData\bin\Debug\PersonalData.exe
+C:\Users\300613283\source\repos\Week3Solution\PersonalData\bin\Debug\PersonalData.pdb
+C:\Users\300613283\source\repos\Week3Solution\PersonalData\obj\Debug\PersonalData.exe
+C:\Users\300613283\source\repos\Week3Solution\PersonalData\obj\Debug\PersonalData.pdb

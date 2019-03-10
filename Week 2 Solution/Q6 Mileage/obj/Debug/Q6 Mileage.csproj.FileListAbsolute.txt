@@ -1,0 +1,6 @@
+c:\users\300613283\source\repos\Week2Solution\Q6 Mileage\bin\Debug\Q6 Mileage.exe.config
+c:\users\300613283\source\repos\Week2Solution\Q6 Mileage\bin\Debug\Q6 Mileage.exe
+c:\users\300613283\source\repos\Week2Solution\Q6 Mileage\bin\Debug\Q6 Mileage.pdb
+c:\users\300613283\source\repos\Week2Solution\Q6 Mileage\obj\Debug\Q6 Mileage.csproj.CoreCompileInputs.cache
+c:\users\300613283\source\repos\Week2Solution\Q6 Mileage\obj\Debug\Q6 Mileage.exe
+c:\users\300613283\source\repos\Week2Solution\Q6 Mileage\obj\Debug\Q6 Mileage.pdb
