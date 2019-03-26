@@ -1,0 +1,14 @@
+H:\COM100 Programming\002\Week11ArrayAssignment\Week11Array\obj\Debug\Week11Array.csprojAssemblyReference.cache
+H:\COM100 Programming\002\Week11ArrayAssignment\Week11Array\obj\Debug\Week11Array.csproj.CoreCompileInputs.cache
+H:\COM100 Programming\002\Week11ArrayAssignment\Week11Array\bin\Debug\Week11Array.exe.config
+H:\COM100 Programming\002\Week11ArrayAssignment\Week11Array\bin\Debug\Week11Array.exe
+H:\COM100 Programming\002\Week11ArrayAssignment\Week11Array\bin\Debug\Week11Array.pdb
+H:\COM100 Programming\002\Week11ArrayAssignment\Week11Array\obj\Debug\Week11Array.exe
+H:\COM100 Programming\002\Week11ArrayAssignment\Week11Array\obj\Debug\Week11Array.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\Week11ArrayAssignment\Week11Array\bin\Debug\Week11Array.exe.config
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\Week11ArrayAssignment\Week11Array\bin\Debug\Week11Array.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\Week11ArrayAssignment\Week11Array\bin\Debug\Week11Array.pdb
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\Week11ArrayAssignment\Week11Array\obj\Debug\Week11Array.csprojAssemblyReference.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\Week11ArrayAssignment\Week11Array\obj\Debug\Week11Array.csproj.CoreCompileInputs.cache
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\Week11ArrayAssignment\Week11Array\obj\Debug\Week11Array.exe
+C:\Users\Georg\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\Week11ArrayAssignment\Week11Array\obj\Debug\Week11Array.pdb
