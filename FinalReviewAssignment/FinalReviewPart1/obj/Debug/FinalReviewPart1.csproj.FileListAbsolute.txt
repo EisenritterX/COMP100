@@ -1,0 +1,7 @@
+H:\COM100 Programming\002\FinalReviewAssignment\FinalReviewPart1\bin\Debug\FinalReviewPart1.exe.config
+H:\COM100 Programming\002\FinalReviewAssignment\FinalReviewPart1\bin\Debug\FinalReviewPart1.exe
+H:\COM100 Programming\002\FinalReviewAssignment\FinalReviewPart1\bin\Debug\FinalReviewPart1.pdb
+H:\COM100 Programming\002\FinalReviewAssignment\FinalReviewPart1\obj\Debug\FinalReviewPart1.csprojAssemblyReference.cache
+H:\COM100 Programming\002\FinalReviewAssignment\FinalReviewPart1\obj\Debug\FinalReviewPart1.csproj.CoreCompileInputs.cache
+H:\COM100 Programming\002\FinalReviewAssignment\FinalReviewPart1\obj\Debug\FinalReviewPart1.exe
+H:\COM100 Programming\002\FinalReviewAssignment\FinalReviewPart1\obj\Debug\FinalReviewPart1.pdb

@@ -1,0 +1,7 @@
+G:\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\FinalReviewAssignment\FinalReview3\bin\Debug\FinalReview3.exe.config
+G:\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\FinalReviewAssignment\FinalReview3\bin\Debug\FinalReview3.exe
+G:\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\FinalReviewAssignment\FinalReview3\bin\Debug\FinalReview3.pdb
+G:\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\FinalReviewAssignment\FinalReview3\obj\Debug\FinalReviewPart3.csprojAssemblyReference.cache
+G:\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\FinalReviewAssignment\FinalReview3\obj\Debug\FinalReviewPart3.csproj.CoreCompileInputs.cache
+G:\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\FinalReviewAssignment\FinalReview3\obj\Debug\FinalReview3.exe
+G:\OneDrive\Documents\My School\Centennial\COMP100 Programming\Programs\FinalReviewAssignment\FinalReview3\obj\Debug\FinalReview3.pdb
